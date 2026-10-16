@@ -11,7 +11,7 @@ This project demonstrates an end-to-end business intelligence solution developed
 
 The solution connects data collection, storage, analytics, and reporting into a structured workflow.
 
-![Solution Architecture](images/solution-architecture.png)
+![Risk Management Data Model](risk_management_data_model.png)
 
 **Workflow:**
 
