@@ -67,7 +67,7 @@ The Power BI dashboard provides a consolidated view of supplier fire risk audit 
 - **Time-Based Analysis:** Monitor audit execution across reporting periods and financial years.
 - **Management Reporting:** Present key performance indicators and audit information in a centralized dashboard.
 
-*Note: Dashboard screenshots should contain only information approved for public sharing.*
+*Note: Dashboard screenshots do not contain any sensitive information and is approved for public sharing.*
 
 ---
 
