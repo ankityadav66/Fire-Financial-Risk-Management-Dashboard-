@@ -75,7 +75,7 @@ The Power BI dashboard provides a consolidated view of supplier fire risk audit 
 
 The database structure organizes the information required for audit planning, execution, and reporting.
 
-![Data Model](images/data-model.png)
+![Data Model](risk_management_data_model.jpg)
 
 ### Main Data Entities
 
