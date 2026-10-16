@@ -56,7 +56,7 @@ The solution was designed to help management:
 
 The Power BI dashboard provides a consolidated view of supplier fire risk audit performance.
 
-![Risk Management Dashboard](images/dashboard-overview.png)
+![Risk Management Dashboard](risk_management_landing_page.png)
 
 ### Key Metrics and Features
 
